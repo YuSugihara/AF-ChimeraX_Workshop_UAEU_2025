@@ -13,10 +13,11 @@ Please complete the following steps before attending the session:
 
 ## Workshop Materials
 
-- Slides and additional resources will be uploaded here approximately two weeks before the workshop.
-- Stay tuned for updates!
+We will upload the full set of slides and additional resources within two weeks after the workshop.  
+
+Please check back later for updates!
 
 ## Contact
 
-If you have any questions, feel free to contact us at:  
+If you have any questions, feel free to contact us:  
 📧 yu.sugihara@tsl.ac.uk
